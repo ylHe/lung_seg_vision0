@@ -1,5 +1,6 @@
 # lung_seg_vision0
 > 肺部CT扫描图像可视化结果：
+
 ![plan](/数据可视化//3D.png)
 
 ## 肺结节检测
