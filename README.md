@@ -11,3 +11,10 @@
 * 生成3D训练和测试数据集：run ./dataprocess/data3dprepare.py
 * 将肺结节数据和mask保存到csv文件 run ./dataprocess/utils.py
 * 获取所有分割数据集的绝对路径 run ./dataprocess/data/dataset_dir.py
+
+**2.模型设计**
+
+***3.结果分析和模型对比**
+
+## 邮箱
+helyylhe@gmail.com
